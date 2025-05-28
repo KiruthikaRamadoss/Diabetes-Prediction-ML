@@ -76,17 +76,17 @@ The project includes:
 
 - **Best Model:** Logistic Regression (Accuracy: 96%)
 - **Insights:**
-  - High glucose and HbA1c levels strongly correlate with diabetes.
-  - Lifestyle factors like physical inactivity and smoking also contribute significantly.
-  - SMOTE improved recall without overfitting.
+  - High glucose and HbA1c levels strongly correlate with diabetes
+  - Lifestyle factors like physical inactivity and smoking also contribute significantly
+  - SMOTE improved recall without overfitting
 
 ---
 
 ## Conclusion
 
-- Logistic Regression and SVM performed best overall.
-- Data preprocessing and class balancing played a key role in boosting model performance.
-- The project demonstrates the utility of machine learning in early diabetes detection and preventive healthcare analytics.
+- Logistic Regression and SVM performed best overall
+- Data preprocessing and class balancing played a key role in boosting model performance
+- The project demonstrates the utility of machine learning in early diabetes detection and preventive healthcare analytics
 
 ---
 
@@ -109,7 +109,7 @@ The project includes:
    git clone https://github.com/YourUsername/Diabetes-Prediction-ML.git
    cd Diabetes-Prediction-ML
    
-2. (Optional) Create and activate a virtual environment:
+2. Create and activate a virtual environment (Optional):
    python -m venv env
    source env/bin/activate  # On Windows use `env\Scripts\activate`
 
