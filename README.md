@@ -127,5 +127,5 @@ For inquiries, collaboration, or feedback:
 
 - [LinkedIn](https://www.linkedin.com/in/kiruthikaramadoss/)
 - [GitHub](https://github.com/KiruthikaRamadoss)
-- [Email](mailto:k_r549@txstate.edu)
+- [Email](mailto:kiruthikaramadoss12@gmail.com)
 
